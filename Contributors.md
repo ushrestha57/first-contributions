@@ -175,6 +175,7 @@ Mees
 - danwt
 - Deepak Kumar Narayanan
 - Divya Gaurav
+- Urjeet Shrestha(https://github.com/ushrestha57)
 - Pranav Prakhar
 - Chandre Kiran G
 - John Mehta
